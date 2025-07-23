@@ -63,6 +63,7 @@ This project consists of five visualisations designed to support real estate inv
 - Number of listings for each bedroom count  
 - Larger homes have fewer listings → less competition  
 
+![image alt](https://github.com/Simha-444/airbnb-seattle-tableau-dashboard/blob/ed3a05446392c4866e74d4956e245a107c94f803/AirBnb%20Dashboard%20.png)
 ---
 
 ## 🧪 How to Replicate This Project
